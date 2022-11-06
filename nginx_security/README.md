@@ -1,0 +1,5 @@
+# Secure a website with NGINX 🔒
+
+## Scenario:
+
+ Your team has been hired by an international media company to develop a website for a new TV show. Work on the site is going well, and the CEO of the company has asked to see a preview before the site goes live. The development team has asked you to figure out a way to protect the site from being accessed by anyone that doesn't have the proper authorization. To solve this challenge, start with a new installation of NGINX and remove the default configuration. Then, add a new configuration for the preview site. Don't worry about adding any content. Update the configuration to protect the entire site using basic authentication. Then, create credentials for a user named CEO in all uppercase letters with a password qwerty in all lowercase letters. 
